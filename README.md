@@ -34,7 +34,7 @@ Review the attached “TechFite Case Study” for information on the company bei
 
 <p>The Sarbanes-Oxley Act (SOX) applies to TechFite because it is a publicly traded company that must maintain transparent and accurate financial reporting. In the case study, TechFite violated SOX by creating dummy corporations to manipulate sales figures, thus inflating the company's financial performance. Carl Jaspers and his associate Yu Lee were responsible for setting up these dummy companies, which resulted in fraudulent financial reports. SOX mandates that publicly traded companies like TechFite adhere to stringent auditing and financial control practices to ensure accurate reporting. TechFite's failure to audit these financial manipulations and prevent the creation of false sales reports is a direct violation of SOX, exposing the company to legal liabilities.</p>
 
-<ins><b>Criminal Evidence, Activity, Actors and Victims</b></ins>
+<h2>Criminal Evidence, Activity, Actors and Victims</h2>
 
 <p>In the case study, Carl Jaspers made Orange Leaf and Union City Electronic Ventures sign nondisclosure agreements (NDA) as a pre-consulting process. These documents contained information about their technical products. After the two companies denied business with TechFite's Application Division, their competitors launched similar products. It was then found out that two of the competitors were clients of TechFite's Application Division. Orange Leaf and Union City Electronic Ventures were the victims of criminal activity, as their sensitive information was accessed and potentially exposed to competitors.</p>
 
