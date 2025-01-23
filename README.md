@@ -4,7 +4,7 @@
 
 <p>This project addresses the laws, regulations, authorities, and directives that inform the development of operational policies, best practices, and training. These standards assure legal compliance and minimize internal and external threats.</p>
 
-<p>In this task, I analyzed legal constraints and liability concerns that threaten information security within the given organization and developed disaster recovery plans to ensure business continuity.</p>
+<p>In this project, I analyzed legal constraints and liability concerns that threaten information security within the given organization and developed disaster recovery plans to ensure business continuity.</p>
 
 <h2>Scenario</h2>
 
